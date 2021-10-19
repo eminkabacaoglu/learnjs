@@ -44,8 +44,7 @@ let konutKredileri = ["Konut Kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi"
 console.log(konutKredileri)
 
 for (let index = 0; index < konutKredileri.length; index++) {
-    console.log(konutKredileri[index])
-    
+    console.log(konutKredileri[index])  
 }
 
 console.log("<ul>")
